@@ -1,0 +1,20 @@
+[
+  {
+    "name": "소개",
+    "icon": "fas fa-dog",
+    "route": "info"
+  },
+  {
+    "name": "멤버",
+    "icon": "fas fa-users",
+    "route": "members"
+  },
+  {
+    "name": "수상실적",
+    "icon": "fas fa-medal"
+  },
+  {
+    "name": "프로젝트",
+    "icon": "fas fa-chart-bar"
+  }
+]

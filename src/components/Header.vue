@@ -8,7 +8,7 @@ export default {
   <div class="header">
     <div class="header__name">
       <span>
-        <router-link :to="{ path: '/' }">CIVAR</router-link>
+        <a href="/">CIVAR</a>
       </span>
     </div>
   </div>
